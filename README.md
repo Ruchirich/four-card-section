@@ -44,7 +44,7 @@ Users should be able to:
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ### What I learned
-This project helped me refresh my knowledge in using grids. I was also going about the wrong way to make the colored borders which was making my code complex and filled with issues. I later found out that I could have just used the `border-top`CSS property to make them.
+This project helped me refresh my knowledge in using grids. I was also going about the wrong way to make the colored borders which was making my code complex and filled with issues. I later found out that I could have just used the `border-top` CSS property to make them.
 
 ### Continued development
 
@@ -58,6 +58,6 @@ I wish to further remake this webpage using Bootstrap to refresh my knowledge in
 
 ## Author
 
-- Website - [Ruchira Choudhary](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Name - Ruchira Choudhary
+- Frontend Mentor - [@Ruchirich](https://www.frontendmentor.io/profile/Ruchirich)
+- LinkedIn - [Ruchira Choudhary](https://www.linkedin.com/in/ruchira-choudhary/)
